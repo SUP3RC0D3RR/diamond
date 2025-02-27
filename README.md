@@ -1,3 +1,3 @@
-## diamond
+# diamond
 ---
-# something im working on
+## something im working on
